@@ -6,6 +6,8 @@ Neural Style Transfer is an optimization technique used to take two images—a c
 
 Basically, pick the image you wish you could paint (content image) and the picture of an artist's painting (style image) for the style in which you wished you painted the content picture and you're good to go.<br>
 
+Built a Neural Style Transfer Algorithm using TensorFlow and Python along with matplotlib to plot graphs.
+
 Example 1:<br>
 
 Content Image:<br>
