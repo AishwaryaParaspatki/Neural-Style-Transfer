@@ -13,26 +13,28 @@ Example 1:<br>
 Content Image:<br>
 
 ![Dog](/images/Dog.png = 250x250)
-<img src=/images/Dog.png width="100" height="100">
+<img src=/images/Dog.png width="300" height="250">
 
 Style Image:<br>
 
-![Vassily_Kandinsky](/images/Vassily_Kandinsky.png)
+<img src=/images/Vassily_Kandinsky.png width="300" height="250">
 
 Output Image:<br>
-![Dog_vs_Vassily_Kandinsky_result](/images/Dog_vs_Vassily_Kandinsky_result.png)
+
+<img src=/images/Dog_vs_Vassily_Kandinsky_result.png width="300" height="250">
 
 <br>
 
 Example 2:<br>
 Content Image:<br>
 
-![Mona_Lisa,_by_Leonardo_da_Vinci](/images/Mona_Lisa,_by_Leonardo_da_Vinci.jpg)
+<img src=/images/Mona_Lisa,_by_Leonardo_da_Vinci.jpg width="300" height="250">
 
 Style Image:<br>
 
-![The_red_armchair_Pablo_Picasso](/images/The_red_armchair_Pablo_Picasso.jpg)
+<img src=/images/The_red_armchair_Pablo_Picasso.jpg width="300" height="250">
 
 Output Image:<br>
 
-![mona_lisa_vs_Picasso](/images/mona_lisa_vs_Picasso.png)
+<img src=/images/mona_lisa_vs_Picasso.png width="300" height="250">
+
