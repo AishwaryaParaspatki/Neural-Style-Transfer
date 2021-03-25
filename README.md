@@ -12,7 +12,7 @@ Example 1:<br>
 
 Content Image:<br>
 
-![Dog](/images/Dog.png)
+![Dog](/images/Dog.png = 250x250)
 
 Style Image:<br>
 
