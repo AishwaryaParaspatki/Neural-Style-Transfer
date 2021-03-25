@@ -13,6 +13,7 @@ Example 1:<br>
 Content Image:<br>
 
 ![Dog](/images/Dog.png = 250x250)
+<img src=/images/Dog.png width="100" height="100">
 
 Style Image:<br>
 
