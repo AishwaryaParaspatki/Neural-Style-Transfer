@@ -1,12 +1,13 @@
-# Neural-Style-Transfer
-<br>
-Paint Like Picasso? Sure!
-<br>
-<br>
+# Neural-Style-Transfer<br>
+
+Paint Like Picasso? Sure!<br>
+
 Neural Style Transfer is an optimization technique used to take two images—a content image and a style image and blend them together so the output image looks like the content image, but “painted” in the style of the style image.<br>
-Basically, pick the image you wish you could paint (content image) and the picture of an artist's painting (style image) for the style in which you wished you painted the content picture and you're good to go.
+
+Basically, pick the image you wish you could paint (content image) and the picture of an artist's painting (style image) for the style in which you wished you painted the content picture and you're good to go.<br>
 
 Example 1:<br>
+
 Content Image:<br>
 
 ![Dog](/images/Dog.png)
