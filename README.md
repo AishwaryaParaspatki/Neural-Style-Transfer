@@ -16,19 +16,19 @@ Style Image:<br>
 ![Vassily_Kandinsky](/images/Vassily_Kandinsky.png)
 
 Output Image:<br>
-![Dog vs Vassily_Kandinsky result](/images/Dog vs Vassily_Kandinsky result.png)
+![Dog_vs_Vassily_Kandinsky_result](/images/Dog_vs_Vassily_Kandinsky_result.png)
 
 <br>
 
 Example 2:<br>
 Content Image:<br>
 
-![Mona_Lisa,_by_Leonardo_da_Vinci](/images/Mona_Lisa,_by_Leonardo_da_Vinci.png)
+![Mona_Lisa,_by_Leonardo_da_Vinci](/images/Mona_Lisa,_by_Leonardo_da_Vinci.jpg)
 
 Style Image:<br>
 
-![The_red_armchair_Pablo_Picasso](/images/The_red_armchair_Pablo_Picasso.png)
+![The_red_armchair_Pablo_Picasso](/images/The_red_armchair_Pablo_Picasso.jpg)
 
 Output Image:<br>
 
-![mona_lisa vs Picasso](/images/mona_lisa vs Picasso.png)
+![mona_lisa_vs_Picasso](/images/mona_lisa_vs_Picasso.png)
