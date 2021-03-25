@@ -12,7 +12,6 @@ Example 1:<br>
 
 Content Image:<br>
 
-![Dog](/images/Dog.png = 250x250)
 <img src=/images/Dog.png width="300" height="250">
 
 Style Image:<br>
@@ -28,13 +27,13 @@ Output Image:<br>
 Example 2:<br>
 Content Image:<br>
 
-<img src=/images/Mona_Lisa,_by_Leonardo_da_Vinci.jpg width="300" height="250">
+<img src=/images/Mona_Lisa,_by_Leonardo_da_Vinci.jpg width="300" height="400">
 
 Style Image:<br>
 
-<img src=/images/The_red_armchair_Pablo_Picasso.jpg width="300" height="250">
+<img src=/images/The_red_armchair_Pablo_Picasso.jpg width="300" height="400">
 
 Output Image:<br>
 
-<img src=/images/mona_lisa_vs_Picasso.png width="300" height="250">
+<img src=/images/mona_lisa_vs_Picasso.png width="300" height="400">
 
